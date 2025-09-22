@@ -31,6 +31,7 @@ I'll start things off with my favourite game!
 * Judgement
 * Katana ZERO
 * Marvel Rivals
+* Minecraft
 * Neon White
 * Ni no kuni wrath of the white witch
 * Persona 5 Strikers
