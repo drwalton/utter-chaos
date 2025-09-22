@@ -10,6 +10,7 @@ I'll start things off with my favourite game!
 * Armored Core 6
 * Balatro
 * Baldur's Gate
+* Baldur's Gate 3
 * Bayonetta 2
 * Bloodborne
 * Broken Arrow
