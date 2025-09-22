@@ -6,6 +6,7 @@ I'll start things off with my favourite game!
 
 ## The List
 
-* Bloodborne
+* Bloodborne <----- no
 * Bioshock
 * deadlock (#1 moba fight me)
+* dark souls 1
