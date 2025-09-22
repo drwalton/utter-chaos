@@ -11,12 +11,14 @@ I'll start things off with my favourite game!
 * Armored Core 6 *(2023)*
 * Balatro *(2024)*
 * Baldur's Gate *(1998)*
+* Barotrauma *(2023)*
 * Bayonetta 2 *(2014)*
 * Beat Saber *(2018)*
 * Bloodborne *(2015)*
 * Broken Arrow *(2025)*
 * Celeste *(2018)*
 * Cities: Skylines *(2015*)
+* Counter-Strike 2 *(2023)*
 * Cult of the Lamb *(2022)*
 * Cyberpunk 2077 *(2020)*
 * Dark Souls *(2011)*
@@ -59,5 +61,6 @@ I'll start things off with my favourite game!
 * Transformers: Fall of Cybertron *(2012)*
 * ULTRAKILL *(2020)*
 * UNBEATABLE *(2025)*
+* Undertale *(2015)*
 * Warframe *(2013)*
 * Wipeout HD Fury *(2009)*
