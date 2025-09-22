@@ -32,6 +32,7 @@ I'll start things off with my favourite game!
 * Marvel Rivals
 * Neon White
 * Ni no kuni wrath of the white witch
+* Overwatch 2
 * Persona 5 Strikers
 * Pokemon Fire Red
 * Portal 2
