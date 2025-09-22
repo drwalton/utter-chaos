@@ -28,6 +28,7 @@ I'll start things off with my favourite game!
 * Haste
 * Hollow Knight
 * Initial D: Special Stage
+* Judgement
 * Katana ZERO
 * Marvel Rivals
 * Neon White
