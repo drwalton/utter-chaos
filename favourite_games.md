@@ -7,4 +7,5 @@ I'll start things off with my favourite game!
 ## The List
 
 * Bloodborne
+* Call Of Duty Black ops 3
 * Portal 2
