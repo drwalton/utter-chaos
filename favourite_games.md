@@ -6,10 +6,12 @@ I'll start things off with my favourite game!
 
 ## The List
 
+* Apex Legends
 * Ark Survival Evolved
 * Armored Core 6
 * Balatro
 * Baldur's Gate
+* Beat Saber
 * Bayonetta 2
 * Bloodborne
 * Broken Arrow
@@ -30,6 +32,7 @@ I'll start things off with my favourite game!
 * Initial D: Special Stage
 * Katana ZERO
 * Marvel Rivals
+* Mario Kart World
 * Neon White
 * Ni no kuni wrath of the white witch
 * Persona 5 Strikers
@@ -47,6 +50,7 @@ I'll start things off with my favourite game!
 * Tetris
 * Terraria
 * Terraria (Calamity Mod)
+* Titanfall 2
 * Tokyo Xtreme Racer (2025)
 * Tokyo Xtreme Racer Drift 2
 * Transformers: Fall of Cybertron
