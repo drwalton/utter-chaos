@@ -8,3 +8,4 @@ I'll start things off with my favourite game!
 
 * Bloodborne
 * Portal 2
+* Slime rancher (1 and 2)
