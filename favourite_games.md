@@ -16,6 +16,7 @@ I'll start things off with my favourite game!
 * Celeste *(2018)*
 * Cities: Skylines *(2015*)
 * Cult of the Lamb *(2022)*
+* Cuphead *(2017)*
 * Cyberpunk 2077 *(2020)*
 * Dark Souls *(2011)*
 * Dark Souls 2 *(2014)*
