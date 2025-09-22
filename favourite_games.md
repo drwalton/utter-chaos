@@ -7,3 +7,4 @@ I'll start things off with my favourite game!
 ## The List
 
 * Bloodborne
+* Lies of P
