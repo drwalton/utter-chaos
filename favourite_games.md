@@ -6,11 +6,13 @@ I'll start things off with my favourite game!
 
 #### The List
 
+* Apex Legends *(2020)*
 * Ark: Survival Evolved *(2017)*
 * Armored Core 6 *(2023)*
 * Balatro *(2024)*
 * Baldur's Gate *(1998)*
 * Bayonetta 2 *(2014)*
+* Beat Saber *(2018)*
 * Bloodborne *(2015)*
 * Broken Arrow *(2025)*
 * Celeste *(2018)*
@@ -31,6 +33,7 @@ I'll start things off with my favourite game!
 * Initial D: Special Stage *(2003)*
 * Judgement *(2018)*
 * Katana ZERO *(2020)*
+* Mario Kart World *(2025)*
 * Marvel Rivals *(2024)*
 * Neon White *(2022)*
 * Ni no Kuni: Wrath of the White Witch *(2011)*
@@ -50,6 +53,8 @@ I'll start things off with my favourite game!
 * Tetris (NES) *(1989)*
 * Terraria *(2014)*
 * Terraria (Calamity Mod) *(2022)*
+* The quiet game *(1999)*
+* Titanfall 2 *(2016)*
 * Tokyo Xtreme Racer *(2025)*
 * Tokyo Xtreme Racer Drift 2 *(2005)*
 * Transformers: Fall of Cybertron *(2012)*
