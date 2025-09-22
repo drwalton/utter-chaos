@@ -10,11 +10,13 @@ I'll start things off with my favourite game!
 * Armored Core 6
 * Balatro
 * Baldur's Gate
+* Barotrauma
 * Bayonetta 2
 * Bloodborne
 * Broken Arrow
 * Celeste
 * Cities: Skylines
+* Counter-Strike 2
 * Cult of the Lamb
 * Cyberpunk
 * Dark Souls
@@ -52,5 +54,6 @@ I'll start things off with my favourite game!
 * Transformers: Fall of Cybertron
 * ULTRAKILL
 * UNBEATABLE
+* Undertale
 * Warframe
 * Wipeout HD Fury
