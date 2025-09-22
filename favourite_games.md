@@ -31,6 +31,7 @@ I'll start things off with my favourite game!
 * Hollow Knight *(2017)*
 * Hollow Knight: Silksong *(2025)*
 * Initial D: Special Stage *(2003)*
+* Judgement *(2018)*
 * Katana ZERO *(2020)*
 * Mario Kart World *(2025)*
 * Marvel Rivals *(2024)*
