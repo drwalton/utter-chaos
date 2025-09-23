@@ -15,6 +15,7 @@ I'll start things off with my favourite game!
 * Beat Saber *(2018)*
 * Bloodborne *(2015)*
 * Broken Arrow *(2025)*
+* Call of Duty: Black Ops 2 *(2012)*
 * Celeste *(2018)*
 * Cities: Skylines *(2015*)
 * Cult of the Lamb *(2022)*
@@ -41,10 +42,12 @@ I'll start things off with my favourite game!
 * Portal 2 *(2011)*
 * Risk of Rain 2 *(2020)*
 * Satisfactory *(2024)*
+* Resident Evil 2 *(2019)*
 * Rocket League *(2016)*
 * Sekiro: Shadows Die Twice *(2019)*
 * Slime Rancher *(2017)*
 * Slime Rancher 2 *(2025)*
+* Sniper Elite 4 *(2017)*
 * Splatoon 3 *(2022)*
 * Squad *(2020)*
 * Street Fighter III: 3rd Strike *(2018)*
